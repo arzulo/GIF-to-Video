@@ -1,5 +1,5 @@
 ﻿# GIF-to-Video
-An easy to use GIF to video converter that works on simply opening power shell shortcuts for different video conversion types. 
+An easy to use GIF to video converter that works on simply opening PowerShell shortcuts for different video conversion types. 
 
 Two shortcuts are currently included with this repo:
 1. GIF -> `.mov` container and `ProRes` codec. (supports alpha channels for video editting).
