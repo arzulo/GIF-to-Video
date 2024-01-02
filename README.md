@@ -12,9 +12,11 @@ Conversion setting are kept minimal and contained within the `src/` script. You 
 In order for this toolset to work, an executable of `ffmpeg` will need to be provided and placed within the `src/` directory.
 
 1. Download the latest version of `ffmpeg` from the website [here](https://www.ffmpeg.org/download.html).
-2. Name the executable file `ffmpeg.exe`
-3. Place it at `src/ffmpeg.exe`
-4. Done!
+    - Alternatively, get it from the github releases [here](https://github.com/BtbN/FFmpeg-Builds/releases).
+2. Find the executable, usually it will be `bin/ffmpeg.exe`.
+3. Assure the executable file name is `ffmpeg.exe`.
+4. Place it at `src/ffmpeg.exe`.
+5. Done!
 
 
 # Use
